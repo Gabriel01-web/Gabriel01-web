@@ -6,10 +6,10 @@
 
 <div>
 <a href="https://github.com/Gabriel01-web">
-  <img height="180em" align="center" style="inline-block" src="https://github-readme-stats.vercel.app/api?username=Gabriel01-web&show_icons=true&theme=tokyonight" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel01-web&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/Gabriel01-web">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel01-web&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel01-web&layout=compact&langs_count=7&theme=tokyonight"/>
 </a>
 </div>
 <div style="display:inline-block"><br>
