@@ -5,10 +5,10 @@
 
 
 <div>
-<a href="https://github.com/Gabriel01-web?tab=repositories">
+<a href="https://github.com/Gabriel01-web">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel01-web&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/Gabriel01-web?tab=repositories">
+<a href="https://github.com/Gabriel01-web">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel01-web&layout=compact&langs_count=7&theme=tokyonight"/>
 </a>
 </div>
