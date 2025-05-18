@@ -1,32 +1,36 @@
+## Hi there, I'm Gabriel Souza
 
-- i'm doing bachalor in computer engineering 🧑‍💻...
-- i'm learning programming in java, C++, Python and some frameworks...
-- i like to read books, i'm reading clean code and i like to go out when i'm free. as well as learning programming daily📖...
-
-
-<div>
-<a href="https://github.com/Gabriel01-web">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel01-web&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
-</div>
-<div style="display:inline-block"><br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" alt="Gabs-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  
-</div>
+<div align="center">
+  <img width="100%" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/github-header-image%20(1).png" alt="apresentação" />
 </div>
 
-##
+## Contact
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-6b564a231/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gb.souza_01/)
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](jgabrielssouza4@gmail.com)
+  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gabriel01-web)
 
-<div>
-<a href="https://www.instagram.com/gb.souza_01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-souza-6b564a231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:jgabrielssouza4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
+<img width="50%" aligh="center" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/github-header-image%20(1).png" alt="gif-génerico">
+
+
+## About me
+*-i'm doing bachalor in computer engineering 🧑‍💻; </br>*
+*-i'm learning programming in java, Python and some frameworks;</br>*
+*-i like to read books, i'm reading clean code and i like to go out when i'm free. as well as learning programming daily📖;</br>*
+<p>
+
+  <img width="55%" align="right" alt="Gabriel01-web github stats" src="https://github-readme-stats.vercel.app/api?username=Gabriel01-web&show_icons=true&theme=gruvbox"/>
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg"></code>  
+</p>
 
 
 
