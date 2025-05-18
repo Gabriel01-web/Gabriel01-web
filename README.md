@@ -10,8 +10,6 @@
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](jgabrielssouza4@gmail.com)
   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gabriel01-web)
 
-<img width="30%" align="left" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/http___25_media.tumblr.com_tumblr_m2eie7TGjX1qg6rkio1_500.gif" alt="continue">
-<img width="30%" align="center" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/http___25_media.tumblr.com_tumblr_m2eie7TGjX1qg6rkio1_500.gif" alt="continue">
 
 ## About me
 *-i'm doing bachalor in computer engineering 🧑‍💻; </br>*
@@ -29,9 +27,13 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21~bgwhite.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21~bgwhite.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21~bgwhite.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg"></code>  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg"></code>
 </p>
 
+<img width="100%" align="center" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/http___25_media.tumblr.com_tumblr_m2eie7TGjX1qg6rkio1_500.gif" alt="continue">
 
 
 
