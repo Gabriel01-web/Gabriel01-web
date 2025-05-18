@@ -10,8 +10,8 @@
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](jgabrielssouza4@gmail.com)
   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gabriel01-web)
 
-<img width="50%" aligh="center" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/github-header-image%20(1).png" alt="gif-génerico">
-
+<img width="30%" align="left" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/http___25_media.tumblr.com_tumblr_m2eie7TGjX1qg6rkio1_500.gif" alt="continue">
+<img width="30%" align="center" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/http___25_media.tumblr.com_tumblr_m2eie7TGjX1qg6rkio1_500.gif" alt="continue">
 
 ## About me
 *-i'm doing bachalor in computer engineering 🧑‍💻; </br>*
