@@ -33,9 +33,12 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg"></code>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gabriel01-web&theme=kimbie_dark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <img width="100%" align="center" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/http___25_media.tumblr.com_tumblr_m2eie7TGjX1qg6rkio1_500.gif" alt="continue">
+
 
 
 
