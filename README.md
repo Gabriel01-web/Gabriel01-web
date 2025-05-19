@@ -1,10 +1,14 @@
 ## Hi there, I'm Gabriel Souza
 
 <div align="center">
-  <img width="100%" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/github-header-image%20(1).png" alt="apresentação" />
+  <img width="50%" align="center" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/http___25_media.tumblr.com_tumblr_m2eie7TGjX1qg6rkio1_500.gif" alt="continue">
 </div>
 
 ## Contact
+  <div align="center">
+    <img width="100%" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/github-header-image%20(1).png" alt="apresentação" />
+  </div>
+  
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-souza-6b564a231/)
   [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gb.souza_01/)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](jgabrielssouza4@gmail.com)
@@ -37,7 +41,6 @@
 
 
 
-<img width="100%" align="center" src="https://github.com/Gabriel01-web/Gabriel01-web/blob/main/assets/http___25_media.tumblr.com_tumblr_m2eie7TGjX1qg6rkio1_500.gif" alt="continue">
 
 
 
