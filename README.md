@@ -37,7 +37,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg"></code>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gabriel01-web&theme=kimbie_dark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
